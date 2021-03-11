@@ -31,8 +31,3 @@ Name / Data Type / Measurement / Description
 * Modelling and Evaluation
 * Conclusions
 
-
-
-=======
-# ForestCoverType
->>>>>>> 2cb10b91dca75caf55e3669c80aaf7484701dc14
