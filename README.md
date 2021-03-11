@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Predict Forest Cover type using cartographical data (Multi-class classification task)
 
 The goal of the project is to predict seven different cover types in four different wilderness areas of the Roosevelt National Forest of Northern Colorado. 
@@ -33,3 +34,6 @@ Name / Data Type / Measurement / Description
 
 
 
+=======
+# ForestCoverType
+>>>>>>> 2cb10b91dca75caf55e3669c80aaf7484701dc14
